@@ -47,3 +47,11 @@ _italic_<br>
 |----|----|----
 |테스트1|테스트2|테스트3
 |테스트4|테스트5|테스트6
+
+---
+## 간단한 자기소개
+### 장현정
+***단국대학교 소프트웨어학과 재학중***<br>
+***오픈소스 SW활용 2분반***
+<br>
+![dkuimg](https://upload.wikimedia.org/wikipedia/ko/0/06/Dankook_emblem.png)
